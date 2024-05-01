@@ -17,7 +17,6 @@ class CNN(nn.Module):
             nn.MaxPool2d(2, 2),
             nn.Dropout(0.2),
 
-
             nn.Conv2d(32, 64, kernel_size=3, padding='same', bias=False),
             nn.BatchNorm2d(64),
             nn.ELU(),
@@ -28,7 +27,6 @@ class CNN(nn.Module):
             nn.ELU(),
             nn.MaxPool2d(2, 2),
             nn.Dropout(0.3),
-
 
             nn.Conv2d(64, 128, kernel_size=3, padding='same', bias=False),
             nn.BatchNorm2d(128),
