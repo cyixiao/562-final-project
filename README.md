@@ -6,7 +6,7 @@ Image classification has many uses in real-world applications ranging from auton
 
 ## Dataset
 
-The CIFAR-10 dataset is a subset of the much larger "80 million tiny images" dataset, assembled by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. This is one of the most widely used datasets for machine learning research, so we decided to utilize it. It comprises 60,000 color images of 32x32 resolution, uniformly distributed across ten distinct classes, making it a standard benchmark in machine learning for image recognition tasks. The CIFAR-10 dataset encompasses a diverse range of categories, each representing different real-world objects. The ten classes are as follows: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, and Truck. CIFAR-10 is structured into six batches, where each batch contains 10,000 images. Specifically, the dataset is split into five training batches and one test batch, ensuring comprehensive coverage for model training and evaluation.
+The CIFAR-10 dataset is a subset of the much larger "80 million tiny images" dataset, assembled by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. It comprises 60,000 color images of 32x32 resolution, uniformly distributed across ten distinct classes, making it a standard benchmark in machine learning for image recognition tasks. The ten classes are as follows: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, and Truck. CIFAR-10 is structured into six batches, where each batch contains 10,000 images. Specifically, the dataset is split into five training batches and one test batch, ensuring comprehensive coverage for model training and evaluation. (https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Methodology
 1. Logistic Regression
