@@ -1,6 +1,6 @@
 # Comparative Analysis of Machine Learning Techniques for Image Classification on the CIFAR-10 Dataset
 
-## Introduction
+## Abstract
 
 Image classification has many uses in real-world applications ranging from autonomous driving to content categorization. The CIFAR-10 dataset, known for its diversity across ten object categories, provides a challenging yet tractable benchmark for image classification. This paper explores the application of four distinct machine learning models—Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, and Convolutional Neural Networks (CNN)—on the CIFAR-10 dataset to compare their performance.
 
