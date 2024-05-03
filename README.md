@@ -13,3 +13,7 @@ The CIFAR-10 dataset is a subset of the much larger "80 million tiny images" dat
 2. K-Nearest Neighbors
 3. Random Forest
 4. Convolutional Neural Network
+
+## Access the Full Report
+
+For a detailed analysis, please refer to our [report.pdf](./report.pdf)
