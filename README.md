@@ -16,4 +16,4 @@ The CIFAR-10 dataset is a subset of the much larger "80 million tiny images" dat
 
 ## Access the Full Report
 
-For a detailed analysis, please refer to our [Report.pdf](./Report.pdf)
+For a detailed analysis, please refer to our [Report.pdf](./Report.pdf).
